@@ -1,2 +1,13 @@
-# corto
-hackatron project
+#corto
+#hackatron
+
+TEAM NAME:
+
+CORTO
+
+TEAM MEMBERS:
+
+SUGAM KUBER
+MEHAK KHANNA
+YASH CHAWLA
+ARJUN
